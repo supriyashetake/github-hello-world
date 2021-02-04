@@ -1,7 +1,7 @@
 #Calculator
 
 def add(x,y):
-    pass
+    return x + y
 def subtract(x,y):
     pass
 def multiply(x,y):
